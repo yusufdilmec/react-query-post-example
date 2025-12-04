@@ -33,7 +33,7 @@ A modern social media feed application featuring infinite scroll, optimistic upd
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/react-query-post-feed.git
+git clone https://github.com/yusufdilmec/react-query-post-feed.git
 cd react-query-post-feed
 
 # Install dependencies
